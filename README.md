@@ -36,12 +36,19 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 ## 📊 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimen-04&show_icons=true&theme=radical&hide_border=true" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimen-04&theme=tokyonight&hide_border=true" height="195" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <!-- Stats Card (Miroir plus stable) -->
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimen-04&show_icons=true&theme=radical&hide_border=true" height="180" />
+      </td>
+      <td align="center">
+        <!-- Streak Card -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimen-04&theme=tokyonight&hide_border=true" height="180" />
+      </td>
+    </tr>
+  </table>
 </p>
-
----
-<br/>
 
 # 🧩 Contribution Graph
 
