@@ -28,7 +28,7 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,nodejs,express,py,java,c,mysql,mongodb,git,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,nodejs,express,py,java,c,mysql,mongodb,git,vscode,docker&perline=16" />
 </p>
 
 ---
