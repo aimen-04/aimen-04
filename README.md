@@ -25,14 +25,17 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 
 ---
 
-
-## 🛠️ Technical Arsenal
+## 🧠 Technical Arsenal
 
 <p align="center">
-  <marquee behavior="alternate" scrollamount="3">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap,php,laravel,py,django,nodejs,java,spring,cs,dotnet,mysql,postgres,mongodb,git,docker,figma" />
-  </marquee>
+  <b>Frontend Development</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap" /><br/><br/>
+  <b>Backend & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,nodejs,java,spring,cs,dotnet,mysql,postgres,mongodb" /><br/><br/>
+  <b>DevOps & Design Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,figma,postman" />
 </p>
+
 ---
 
 ## 📊 GitHub Activities
