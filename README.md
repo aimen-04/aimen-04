@@ -25,10 +25,20 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 ## 📊 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimen-04&show_icons=true&theme=transparent" alt="Aimen's Stats" />
+  <!-- On change le thème pour 'radical' qui est plus stable en ce moment -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aimen-04&show_icons=true&theme=radical&hide_border=true" alt="Aimen's Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimen-04&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Ta carte de Streak qui fonctionne déjà -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimen-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+## 📱 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/aimen-hamama-816b3b2b3" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aimen-hamama" /></a>
+  <a href="mailto:aimenhamama201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aimenhamama201@gmail.com" /></a>
+</p>
+
+---
 
 ---
 <br/>
