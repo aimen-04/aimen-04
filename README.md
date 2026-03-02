@@ -66,9 +66,3 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
   </picture>
 </p>
 
----
-
-## 🏆 Certifications
-- **Full Stack Development** - Ecole Nationale Supérieure d'Arts et Métiers (ENSAM)
-- **Open Hardware & IoT** - UNESCO
-- **Supply Chain Fundamentals** - PM Coaching
