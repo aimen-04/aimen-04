@@ -1,9 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Aimen%20Hamama&fontSize=70&caption=Computer%20Engineering%20Student%20|%20LogTech%20Architect" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Aimen%20Hamama&fontSize=70&fontColor=ffffff&caption=Computer%20Engineering%20Student%20|%20LogTech%20Architect&captionSize=25" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aimen-hamama-816b3b2b3" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp; <!-- Pour ajouter un petit espace entre les boutons -->
   <a href="mailto:aimenhamama201@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
