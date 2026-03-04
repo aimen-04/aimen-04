@@ -1,0 +1,25 @@
+name: Generate Space Shooter
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # S'exécute chaque soir à 18h
+  workflow_dispatch: # Permet de le lancer manuellement
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: czl9707/gh-space-shooter@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Generate Space Shooter animation" || echo "No changes"
+          git push
