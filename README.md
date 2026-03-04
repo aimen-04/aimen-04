@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aimen Hamama</h1>
+<h1 align="right">Hey, <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aimen Hamama</h1>
 ### Computer Engineering Student | International Trade & Logistics Specialist
 
 I am a dual-degree student in **Computer Engineering** and **International Trade**. I specialize in bridging the gap between technical software solutions and global supply chain optimization.
@@ -82,9 +82,6 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 
 
 
