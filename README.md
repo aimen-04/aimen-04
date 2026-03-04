@@ -11,12 +11,13 @@
 </p>
 
 <h1 align="left">Hey, <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aimen Hamama</h1>
-### Computer Engineering Student | International Trade & Logistics Specialist
+
+## Computer Engineering Student | International Trade & Logistics Specialist
 
 I am a dual-degree student in **Computer Engineering** and **International Trade**. I specialize in bridging the gap between technical software solutions and global supply chain optimization.
 
 - 🎓 **Education:** Engineering Degree at SUPMTI & International Trade at FSJESM.
-- 🏢 **Focus:** information system (SI), Full-stack Development, and Data Analysis.
+- 🏢 **Focus:** Information System (SI), Full-stack Development, and Data Analysis.
 - 🚀 **Key Projects:** World Cup 2030 Fan Platform & Dar Al-Andalus Reservation System.
 - ✉️ **Contact:** aimenhamama201@gmail.com
 - 🔗 **LinkedIn:** [Aimen Hamama](https://www.linkedin.com/in/aimen-hamama-816b3b2b3)
